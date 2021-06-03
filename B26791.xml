@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Merlini liberati errata: or, The prophecies and predictions of John Partridge, for the year of our Lord, 1690, &amp;c. With useful annotations on them. Together with an epistle touching his respect to those glorious martyrs of the people, King Charles I. and Arch-Bishop Laud. By an earnest honourer of his King and country, and faithful votary to a true astrology. December 31. 1692. Imprimatur, Edmund Bohun.</title>
+            <author>Earnest honourer of his King and country.</author>
+         </titleStmt>
+         <extent>Approx. 53KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26791</idno><idno type="EEBO-CITATION">99826382</idno>
+  <idno type="VID">206043</idno>
+  <idno type="EEBO-PROQUEST">2240853625</idno>
+  
+            <idno type="STC">Wing M1832</idno>
+            <idno type="PROQUEST">99826382</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99826382e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26791)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206043)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1764:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Merlini liberati errata: or, The prophecies and predictions of John Partridge, for the year of our Lord, 1690, &amp;c. With useful annotations on them. Together with an epistle touching his respect to those glorious martyrs of the people, King Charles I. and Arch-Bishop Laud. By an earnest honourer of his King and country, and faithful votary to a true astrology. December 31. 1692. Imprimatur, Edmund Bohun.</title>
+                  <author>Earnest honourer of his King and country.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.C. at the Blew-Ball in Thames-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement on verso of final leaf.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Partridge, John, 1644-1715. --  Merlinus liberatus --  Early works to 1800.</term>
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="personal_name">Laud, William, 1573-1645 --  Early works to 1800.</term>
+               <term type="topical_term">Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206043:1"/>
+            <p>
+               <hi>Merlini Liberati Errata:</hi> OR, THE PROPHECIES and PREDICTIONS OF <hi>Iohn Partridge,</hi> For the Year of our Lord, 1690, <hi>&amp;c.</hi>
+            </p>
+            <p>With useful Annotations on them. TOGETHER With an Epistle touching his Respect to those Glorious Martyrs of the People, King Charles I. AND Arch-Bishop <hi>LAƲD.</hi>
+            </p>
+            <p>By an earnest Honourer of his King and Country, and faith<g ref="char:EOLhyphen"/>ful Votary to a True <hi>Astrology.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="imprimatur">
+                        <opener>
+                           <dateline>
+                              <date>December 31. 1692.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>Edmund Bohun.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <l>Seria mixta Jocis:</l>
+               <l>Si Populus vult decipi, decipiatur.</l>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>G. C.</hi> at the <hi>Blew-Ball</hi> in <hi>Thames-street.</hi> 1692.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:206043:2"/>
+            <pb facs="tcp:206043:2"/>
+            <head>To the Judicious READER.</head>
+            <p>
+               <hi>I</hi> Here Present you with a short Specimen of <hi>J. P</hi>'s skill in <hi>Astrology,</hi> shewing how fit he is to set up for an <hi>Inter<g ref="char:EOLhyphen"/>preter</hi> of the <hi>Stars.</hi> Brutish <hi>Baulings</hi> and Beastly <hi>Lan<g ref="char:EOLhyphen"/>guage,</hi> are his prime <hi>Talents;</hi> and noisy Lyes, Scan<g ref="char:EOLhyphen"/>dals and Nonsense, the Natural <hi>Products</hi> of his virulent <hi>Pen.</hi> Deprive the Man of this <hi>Furniture,</hi> and his <hi>Almanack</hi>'s like a Room <hi>Unhung,</hi> will be purely <hi>Naked.</hi> He labours to approve himself a Man of <hi>Design;</hi> and stretches all the little Art he's Master of, to lessen <hi>Monarchy</hi> and <hi>Religion.</hi> Hence he bold<g ref="char:EOLhyphen"/>ly Exclaims,—</p>
+            <q>A <hi>Common-wealth</hi>'s the thing that Kingdoms want.</q>
+            <p>But woe the time! That the <hi>Church</hi> and <hi>State</hi> should suffer themselves to be Corrected and <hi>Underlay'd</hi> by so Artless a Wight! Howbeit, that this is his grand <hi>Bent,</hi> conspicuously ap<g ref="char:EOLhyphen"/>pears, by the many daring <hi>Scandals</hi> he constantly is casting up<g ref="char:EOLhyphen"/>on sundry Illustrious <hi>Branches</hi> of the <hi>Royal Family,</hi> and on several of the <hi>Sacred Order.</hi> View his <hi>Chronology</hi> of this Year, 1692. and observe how he deals by <hi>K. Charles I.</hi> and Arch-Bishop <hi>Laud.</hi>
+            </p>
+            <p n="1">
+               <hi>I.</hi> He makes that Glorious <hi>King</hi> and <hi>Martyr,</hi> to be <hi>Author of the late Intestine Bloody War;</hi> affirming him to have <hi>Refused Propositions for Peace;</hi> when as it is manifest, That Pious Peacable <hi>Monarch,</hi> did so far comply and stoop even below the Dignity of Himself, as a <hi>King,</hi> that he sent <hi>Forty Messages to the Parliament, to procure the Quiet of his Bleeding Kingdoms. All which were Rejected!</hi> Alas!
+<pb facs="tcp:206043:3"/> the Rebels (<hi>non obstante</hi> their Godly Pretences) design'd not his Re-establishment, nor to make him a <hi>Glorious King,</hi> as they promised; their aim being at the <hi>Ruin</hi> of his <hi>Honor, Crown</hi> and <hi>Life.</hi> As you may find by reading his own <hi>Excellent Book:</hi> Also by <hi>Sir W. Sanderson</hi>'s History of that good Prince. Mr. <hi>Hobbs</hi>'s, <hi>Behemoth,</hi> and the Learned Dr. <hi>Hollingworth</hi>'s, and Mr. <hi>Long</hi>'s late Admirable Defences of that <hi>Divine Mon<g ref="char:EOLhyphen"/>arch.</hi>
+            </p>
+            <p n="2">
+               <hi>II.</hi> This <hi>Impious Man</hi> is not ashamed to charge the most Reverend Bishop <hi>Laud,</hi> with bringing in <hi>Popery,</hi> &amp;c. A Scan<g ref="char:EOLhyphen"/>dal so horribly false, that nothing can Equal it, but it's <hi>Author.</hi> For <hi>Popery,</hi> all the World knows, was not brought in while that good Prelate was <hi>Metropolitan;</hi> neither is it yet. Nor, was it likely that this <hi>Pious Bishop</hi> ever design'd any such thing, unless we can believe, the proper way to introduce <hi>Popery,</hi> be strenuously to Oppose it? His Learned Treatise against the Je<g ref="char:EOLhyphen"/>suit <hi>Fisher,</hi> still Lives, and will ever Live to confute this Hel<g ref="char:EOLhyphen"/>lish Calumny.</p>
+            <p>I hope some able <hi>Polite Pen</hi> of the <hi>Church of England,</hi> will undertake the further Defence of our <hi>Murther'd</hi> Prince, and <hi>Martyr'd</hi> Bishop, (who both of them suffer'd under the <hi>Rage</hi> and for the Sins of a Rebellious Headstrong <hi>People</hi>) and Cha<g ref="char:EOLhyphen"/>stise this <hi>Calumniating Libertine,</hi> and not suffer him to pass without <hi>Reproof</hi> for these his horrid <hi>Scandals;</hi> he having thereby as far as in him lies, <hi>Murthered</hi> those <hi>Sacred Persons</hi> a second time.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="5" facs="tcp:206043:3"/>
+            <head>
+               <hi>Merlini Liberati Errata:</hi> OR, THE PROPHECIES and PREDICTIONS OF <hi>John Partridge.</hi> For 1690, <hi>&amp;c.</hi> With some Brief Notes upon them.</head>
+            <p>AS the Worthy Author of <hi>Cometomantia,</hi> and others very Learned, give their <hi>Suffrage</hi> for <hi>Astrology,</hi> on condition it were separated from the <hi>Errors</hi> and <hi>Falshoods</hi> it is too com<g ref="char:EOLhyphen"/>monly made to Patronize: In the same Sense do I pre<g ref="char:EOLhyphen"/>tend to <hi>own</hi> and <hi>defend</hi> it. When I meet with Railing and Reviling Language in Books treating of the <hi>Stars,</hi> I look on them only as <hi>Glasses</hi> wherein to see <hi>Devils;</hi> and their Authors to be as far distant from the Philosophy of the <hi>Stars</hi> and <hi>Christianity,</hi> as if they had ne<g ref="char:EOLhyphen"/>ver heard of either. I shall therefore keep my self within the bounds of <hi>Verity</hi> in my <hi>Examen</hi> of <hi>J. P</hi>'s <hi>Almanack</hi> for 1690, lately come to my hand: And if in any thing I deviate from this prescribed <hi>Rule,</hi> it will be only when constrained thereunto by some monstrous Ex<g ref="char:EOLhyphen"/>cursions of the Author I have to do withal. And methinks I already find many begin to Pity me, in relation to this undertaken Task. For,</p>
+            <p>
+               <hi>Dura nimis est ingenuae cum Meretrice contestatio.</hi> It is a difficult Task for an <hi>Honest Woman</hi> to Combate it with a <hi>common Scold;</hi> in<g ref="char:EOLhyphen"/>stead of <hi>Argument,</hi> she shall meet with nothing but <hi>Huff, Claw</hi> and <hi>Ruffle.</hi> Albeit, for the sake of <hi>Urania,</hi> I have at all this <hi>Brutish Odds,</hi> cast aside my serious Reservedness for a time, to entertain a <hi>Literary War</hi> with one that under pretence of Art, runs on <hi>Railing</hi> at all sorts of Persons, not sparing <hi>Crowned Heads, Bishops,</hi> &amp;c. Nor yet the <hi>Master</hi> that taught him; and thinks to bear all down before him with <hi>Clamorous Noise</hi> and <hi>Impudence.</hi>
+            </p>
+            <pb n="6" facs="tcp:206043:4"/>
+            <p>In his Epistle to this <hi>Almanack</hi> of 1690. he accosts us with a very uncouth Passage, <hi>viz. This little Book will run the whole Nation thorough.</hi> 'Tis a <hi>Tool,</hi> it seems as Sharp as its <hi>Author,</hi> and all out as Dangerous. The Nation had best be provided of a <hi>Surgeon,</hi> lest it Languish of the Wounds design'd it by this terrible Sir <hi>Guy. To run the whole Nation thorough,</hi> is a mighty Task, such as none of the best Masters of <hi>Defence</hi> dare attempt. No! 'tis our blustring <hi>Partridge</hi> is the only <hi>Gladiator</hi> in Fashion, and can <hi>Run Nations thorough!</hi> So that those single Persons he is pleas'd to wound, are Honour'd by this daring <hi>Dueller of Nati<g ref="char:EOLhyphen"/>ons.</hi> He formerly contended with <hi>Universities,</hi> and now's become a Combatant for <hi>Kingdoms.</hi> What will this <hi>Don Quixot</hi> come to at last? Let the <hi>Wind-Mills</hi> beware of him.</p>
+            <p>But passing the quaintness of his <hi>Stile,</hi> I will now make himself Judge, Whether it had not been better and truer <hi>English,</hi> to have said, <hi>This Book shall run thorough the Nation,</hi> than that it should <hi>Run the whole Nation thorough?</hi> This later being a ridiculous <hi>Menace;</hi> the former carrying in it some savor of <hi>Sense.</hi>
+            </p>
+            <p>In the conclusion of his <hi>Epistle,</hi> he threatens to be a <hi>Goad in his Masters side, as long as he Lives:</hi> A most grateful Resolution! And yet within a few Lines affirms, <hi>He knows no cause of a Difference.</hi> Sure the Man is Acted by the <hi>Devil,</hi> to deal thus by <hi>him,</hi> that hath done more for him than ever his Parents were able, and unto whom he ought constantly to be paying <hi>Duty.</hi> But I shall leave him to be accounted with for this, by the <hi>Person he threatens;</hi> who will certain<g ref="char:EOLhyphen"/>ly requite him as he deserves, if the thoughts of an <hi>Impar Congressus</hi> prevent not. But alas! if all his <hi>Goads</hi> were <hi>Awls,</hi> his <hi>Tutor</hi> need not to put on <hi>Mabury</hi>'s <hi>Bodies</hi> to secure him from the Danger. So I pass from his <hi>Epistle,</hi> to what he calls, <hi>His Monthly Judgments.</hi>
+            </p>
+            <div n="January" type="month">
+               <head>Ianuary, 1690.</head>
+               <p>OUr <hi>Merlin</hi> Salutes us thus. <hi>At the New ☽ there were no material Rays nor Positions, and therefore he judges, that things are preparing for some.</hi> Here we have a high strain of Art, even to Cracking: For that New ☽ was accompanied with as many <hi>Rays,</hi> as any New ☽ ever was, if he mean <hi>Planetary Rays.</hi> If he mean other <hi>Rays,</hi> he should have told us what. But the Man mentions <hi>Rays or Positions.</hi> If by <hi>Po<g ref="char:EOLhyphen"/>sitions</hi> he mean the <hi>Planets Places,</hi> they are for number the same, as in any other <hi>Lunation.</hi> Seven <hi>Planets</hi> must always have seven <hi>Places.</hi> If he mean by <hi>Positions</hi> or <hi>Rays,</hi> the <hi>Planets Aspecting each other,</hi> &amp;c. he forces us to a Smile; for that New ☽ shews us 1. The ☉ ☽ ☿ to be all in ✶ ♄. (2.) A ✶ ♂ ♃ (3.) ♂ ☿ in △. (4.) A ✶ ♃ ☿. And yet this <hi>Subli<g ref="char:EOLhyphen"/>cium Caput,</hi> complains for want of <hi>Rays</hi> or <hi>Positions:</hi> Whereas in this
+<pb n="7" facs="tcp:206043:4"/> Sense, very few New ☽'s afford so great variety of <hi>Rays</hi> or <hi>Positions.</hi> So that his Complaint being False, his Judgments must be Idle.</p>
+            </div>
+            <div n="February" type="month">
+               <head>February, 1690.</head>
+               <p>The Man talks of a <hi>Popish Plot.</hi> We will tell you upon what <hi>Plane<g ref="char:EOLhyphen"/>tary Authority,</hi> when he tells us. 'Tis wonder he did not <hi>make</hi> one, as well as <hi>Predict</hi> it. He hath been well known to many <hi>Plot-makers,</hi> viz. <hi>Tongue, Mansel, Hunt,</hi> &amp;c. But here's the Mischief on't, <hi>Partridge can't Ride!</hi> as 'twas <hi>Sworn</hi> against him in the History of the <hi>Rye-House Conspiracy.</hi> But leaving this, he tells us of a <hi>Town taken by Surprize.</hi> Of which Town so Taken, none ever hear'd. This therefore must pass for one of his <hi>Airy Castles.</hi>—He assures us, that ♄ <hi>Stationary on the—Ascendant, and in □ of his M. C. gives him loss of Honor, Treachery,</hi> &amp;c.—I will not contrast it with him, whether loss of <hi>Honor,</hi> &amp;c. be a <hi>Gift?</hi> Tho <hi>Gain</hi> is commonly opposed to <hi>Loss;</hi> yet were I as the <hi>Native</hi> he mentions, I would desire ♄ if he have no other Favours to <hi>bestow,</hi> to keep them to himself. But, what if ♄ hath not given such <hi>Loss of Honor,</hi> &amp;c. as this Man talks of? And is not within 4 Deg. of the <hi>Horoscope</hi> he mentions, and near 3 <hi>times 4 distant from a □ to the M. C?</hi> Why then our Blustring <hi>Anglo-Battavian</hi> is Mistaken, and we are never the Wiser.</p>
+            </div>
+            <div n="March" type="month">
+               <head>March, 1690.</head>
+               <p>Here our Man of Art tells us—<hi>The great congress of the Planets in</hi> ♓ 6 of the 7, [not minding ♄ to be in ♏ and ♂ in ♊] shew great <hi>Meetings an Association.</hi> &amp;c. with a repetition of the <hi>Lyes</hi> about ♄'s <hi>Transit</hi> in the last Month. But there was no such <hi>Meeting,</hi> nor no <hi>Associa<g ref="char:EOLhyphen"/>tion</hi> at all, as he idly conceited of. The rest of this Month's Pre<g ref="char:EOLhyphen"/>sages are such nonsensical ridiculous stuff, that I cannot make any fit Company for my Understanding, and therefore leave them for his own use.</p>
+            </div>
+            <div n="April" type="month">
+               <head>April, 1690.</head>
+               <p>Now our <hi>Merlin</hi> breaths forth mighty things, and tells us—<hi>That the ♂ ♃ ☿ in ♓ is of eminent Service to the Affairs of</hi> Britain. And why so? Because <hi>Britain</hi> is under ♈ <hi>Ergo</hi> a ♂ ♃ ☿ in ♓ must Befriend them. I have heard of a <hi>Chirurgeon</hi> that pretended to Cure the <hi>Gout</hi> in the great Toe, by laying a Plaister to the <hi>Nose:</hi> Bet saith our <hi>Seer, the □ ♂ ☿ doth give the Undoing of a Merchant or Banker,</hi> &amp;c. [A Pox of its Courtesie, may the Merchant or Banker cry] and the ☍ ♄ ♀ <hi>gives danger of Death to a Great Lady. And the ☍ ☉ ♄ gives danger of Death by reason of the Gout, to some great and eminent Man,</hi> &amp;c. Pray who of any Sense, would say, Thank ye for such Gifts? To the <hi>Merchant</hi> or <hi>Banker</hi> ready <hi>Cash</hi> had been better; to the <hi>Great Lady,</hi> a <hi>Coach</hi> and <hi>Six;</hi> to
+<pb n="8" facs="tcp:206043:5"/> the <hi>Great Man, Claret</hi> and <hi>Good Company</hi> had been Presents more Welcome. But for such kind of <hi>Gifts</hi> as this <hi>Man</hi> makes the Planets to deal among <hi>Mortals,</hi> none are obliged to them. To be serious, in what <hi>Author</hi> doth our <hi>Merlin</hi> meet such a <hi>Term of Art,</hi> as for the <hi>Planets to Give?</hi> Astrologers tell us, that <hi>Planets</hi> may <hi>Presage,</hi> or <hi>Pro<g ref="char:EOLhyphen"/>duce,</hi> &amp;c. But for to <hi>Give,</hi> is no Astrological Phrase; nor have the <hi>Planets</hi> any <hi>Hands</hi> given them for any such Purpose.</p>
+               <p>To Expostulate a little with our liberal <hi>Merlin,</hi> Why should the ☍ ♄ ♀ <hi>give Death to a Great Lady?</hi> It falls in Friendly terms; and which of them doth signifie the <hi>Great Lady?</hi> If ♀ she is strong and preserves Life. If ♄ he's Peregrine, and cannot signifie a <hi>Great Lady.</hi> Surely he Dream't of some <hi>Sybil of the Kitchin,</hi> who upon the loss of her <hi>Corydon</hi> might grow <hi>Crop sick</hi> upon that ☍ ♄ ♀ for such a one might pass with him for a <hi>Lady Great,</hi> or a <hi>Great Lady;</hi> to use one of Sir <hi>Roger</hi>'s Tropes to him, his Conversation reaching but very little higher. And why should an ☍ ♄ ☉, <hi>Give danger of Death by the Gout?</hi> Since like the former, it is made from saluriferous parts of Heaven. But I put too great a Price upon an <hi>Ass's-head,</hi> when I expect Reason thence to issue.</p>
+            </div>
+            <div n="May" type="month">
+               <head>May, 1690.</head>
+               <p>In <hi>May</hi> he tells us what no Man could ever do, without his Inspired Genius, <hi>viz. That</hi> Ireland <hi>is Impoverished and Ruin'd by the Ruinous Courses it hath long lain under.</hi> A notable Prediction! He saw that Kingdom labouring under the Burthen of <hi>War,</hi> and pretends from the <hi>Stars</hi> to <hi>Predict its Ruin.</hi> But his Phrase of <hi>Ruinous Courses,</hi> is somewhat ob<g ref="char:EOLhyphen"/>scure; and I would fain be informed, what <hi>Ruinous Courses</hi> he means, this being another <hi>Ignote term</hi> of Art, like that of the Planets <hi>Giv<g ref="char:EOLhyphen"/>ing.</hi> Sure he can't mean <hi>Physical Courses,</hi> for such well-directed, <hi>Cure,</hi> and not <hi>Destroy.</hi> Nor yet, <hi>Courses</hi> after an <hi>Hare</hi> or <hi>Buck,</hi> Hunt<g ref="char:EOLhyphen"/>ing being a great advantage to Human Life. But, be they what <hi>Courses</hi> he please, I am sure he paums <hi>Course</hi> English and Art upon us.</p>
+               <p>And see now how he goes about to requite us. ☿ <hi>By Position in the Figure.</hi> (What Figure Sir? You have named none:) <hi>hath parti<g ref="char:EOLhyphen"/>cular Signification of the Affairs of</hi> France <hi>and</hi> Ireland; <hi>and the Tyrant is ill and out of Order; partly with Melancholy and Vexing,</hi> &amp;c. This ☿ is a notable Spark when he sets on it, and can as easily constrain our <hi>Merlin</hi> to utter <hi>Lyes,</hi> as compel the <hi>Tyrant</hi> to <hi>Vex, &amp;c.</hi> But since he mentions no <hi>Figure,</hi> let us (in imitation of Capt. <hi>Bessus,</hi> suppose a <hi>Sword.</hi>) Suppose one. I then desire to know, how he would place ☿ herein to signifie the <hi>Affairs of France and Ireland?</hi> For ☿ at the New ☽ is in ♊ and so most of the Month; tho some days hereof in
+<pb n="9" facs="tcp:206043:5"/> ♉ or ♋. And what have these Signs to do with <hi>France</hi> or <hi>Ireland?</hi> Why, if you would know the truth, his <hi>Merlin</hi> would not Sell without such kind of Fictitious stuff, there being in all Countries more <hi>Geese</hi> than <hi>Swans,</hi> viz. More Fools to admire a <hi>Hair-brain'd Fellow,</hi> than <hi>Wise Men</hi> that will be at the pains to <hi>Correct</hi> him.</p>
+            </div>
+            <div n="June" type="month">
+               <head>Iune 1690.</head>
+               <p>Here our <hi>Sapiens Octavus</hi> tells us,—<hi>That a Soldier for his Merit, receives considerable Honor and Preferment, but he thinks he does not keep it without some Blemish by ill report; and it is well if he doth not deserve it too.</hi> But, who ever heard of any such Soldier?—He goes on, <hi>the</hi> △ ☉ ♄ <hi>gives Life to some old Gentleman.</hi> The Favour is not much, if the Prediction had been true. Had it been to a young Gentle<g ref="char:EOLhyphen"/>man, and had continued it to him till he had been <hi>Old,</hi> it might have merited Thanks. This <hi>Merlin</hi> tells us also, <hi>that</hi> △ <hi>gives some Embassy.</hi> I have often read, of ☿'s being a Messenger to the Gods, but never ♄: It seems nimble ☿ is abdicated that Office, and Gouty ♄ turn'd Currier in his room.</p>
+            </div>
+            <div n="July" type="month">
+               <head>Iuly, 1690.</head>
+               <p>Our <hi>Merlin</hi> after his wonted rate of Truth, tells us, <hi>This Lunation falls in</hi> ♋ <hi>the Ascendent of</hi> Holland <hi>and</hi> Scotland, <hi>and the two Lights are in direct Parallel Mundane with</hi> ♃. But this Month exhibits no such thing; for the Lunation, <hi>viz.</hi> the New ☽ falls not in ♋ but ♌ and the Luminaries then are in no <hi>Mundane Parallel</hi> with ♃ but in Platick △ of him. He further says,—<hi>The</hi> △ ☉ ♃ <hi>gives Honor to the Law and its Professors.</hi> But then nothing of that kind happen'd, it being the <hi>Dead Vacation time.</hi> He proceeds,—♃ <hi>Stationary, Ad<g ref="char:EOLhyphen"/>vanceth the Interest of</hi> England. What must ♃'s going <hi>backward</hi> sig<g ref="char:EOLhyphen"/>nifie the Nation's going <hi>forward?</hi> He also says,—<hi>We may expect Foreign Ambassadors.</hi> But then none came. Last Month, he sent ♄ on his <hi>Errand:</hi> Now Commissonates ♃ his <hi>Envoy.</hi> And is not this a fit Fellow to <hi>Divine,</hi> and <hi>Steer</hi> the <hi>Fate of Nations,</hi> that understands no<g ref="char:EOLhyphen"/>thing truly either of the <hi>Stars</hi> or <hi>Mythology?</hi>
+               </p>
+            </div>
+            <div n="August" type="month">
+               <head>August, 1690.</head>
+               <p>In <hi>August</hi> Monsieur <hi>Merlin</hi> tells us,—<hi>That</hi> ☿ <hi>seems Employed to the purpose, as if there were somthing of great and eminent Weight in hand, that requires Intelligence,</hi> &amp;c. <hi>It is very considerable because he's not only Angular, but in</hi> ♋ <hi>a Tropical Sign, in the Angle of War and Contention.</hi>
+                  <pb n="10" facs="tcp:206043:6"/> Now, would you not expect some great Matter, from this <hi>Canting Harrangue;</hi> but to ease your Longing, ☿ is so far from being in ♋ in that Month, that he enters ♌ the first day thereof, as his own <hi>Al<g ref="char:EOLhyphen"/>manack</hi> proves against him. And, had he not said that ☿'s □ to ♄ is not very Welcome, <hi>&amp;c.</hi> He had been a very ☿ himself, and had not spoke one true word of his Brother ☿; but no matter for <hi>Truth</hi> or <hi>Art,</hi> he can make his Book without them.</p>
+            </div>
+            <div n="September" type="month">
+               <head>September, 1690.</head>
+               <p>The Man Accosts us here in his wonted way of Veracity, thus, <hi>At the last New</hi> ☽ <hi>the first application of the</hi> ☽ <hi>was to the</hi> ☌ ♂ <hi>and</hi> ☍ ♃ <hi>and they two the only Angular Stars at that time.</hi> But there's scarce one Syllable of Truth in all this, for the ☽ then defluxed from her ☌ ☉ to a ✶ ♄ and reached not the ☌ ♂ until the next day at Midnight. Nor is ♂ <hi>Angular</hi> in that <hi>Lunation,</hi> if he mean <hi>locally</hi> and <hi>virtually</hi> so; and other Angularity is of no force. But ♀ is Angular, which our Liberate <hi>Merlin</hi> could not see. He that makes a Lye the Basis of his Judgments, is not likely to befriend us with Truth in his Pre<g ref="char:EOLhyphen"/>dicting <hi>Futurities.</hi> But thus doth <hi>J. P. Ergo,</hi> &amp;c.</p>
+            </div>
+            <div n="October" type="month">
+               <head>October, 1690.</head>
+               <p>Our mendacious <hi>Seer,</hi> as if he were prime <hi>Favourite</hi> to the <hi>Father of Lyes,</hi> begins <hi>October</hi> with such a swindger, as would make a Modest Man Blush to read, <hi>viz. Here are no less than five violent Lunations that do successively follow one another, and most of them in</hi> ♎, <hi>a Cardinal Sign.</hi> If the Man mean by Lunations, as other Astrologers, the ☌ ☍ and □'s of ☉ and ☽, there are but 4 such in the whole Month; and but one of them happens, while the ☉ is in ♎, and that is the Full ☽ Neither are those <hi>Lunations</hi> so Violent as he falsely depaints them; for at the latter □ of ☉ ☽ which happens the 14th. day, (not made in ♎ but from ♏ and ♌) the ☽ is in △ ♃, not a <hi>Violent,</hi> but a <hi>Vi<g ref="char:EOLhyphen"/>tal</hi> and Preserving Aspect. Moreover, there is not one martial mutual Aspect in the whole Month, to irritate any violent Effects.</p>
+               <p>He marches on, telling us,—There's a ☌ ☉ ♂, but <hi>October</hi> af<g ref="char:EOLhyphen"/>fords us no such <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, tho <hi>September</hi> indeed did. But this being a venial slip, we'll Pardon him.</p>
+            </div>
+            <div n="November" type="month">
+               <head>November, 1690.</head>
+               <p>The last Month's <hi>Mendacities,</hi> meet with fit and suitable Compa<g ref="char:EOLhyphen"/>ny in this: For he tells us, <hi>The Configurations of the Month, enclines to
+<pb n="11" facs="tcp:206043:6"/> Peace.</hi> And yet in the same Breath, assures us, <hi>The</hi> ☌ ☉ ♄, <hi>the</hi> ☌ ☉ ☿, <hi>the</hi> ☌ ♂ ☿, &amp;c. <hi>Shew Councils divided,</hi> &amp;c. <hi>And the</hi> ☌ ♄ ♂ <hi>will much advance those bad wretched Effects before spoken of.</hi> [I omit their men<g ref="char:EOLhyphen"/>tion, as being both Idle and Wicked.] I wish he could make out his <hi>bad wretched Effects</hi> to be agreeable to Art and Sense: Every Artist knows, that where ♂ commands the <hi>Jury,</hi> the Verdict seldom goes against him. It behoves him therefore to make it appear, how his <hi>bad wretched Effects</hi> are made good. And if he please, from his great skill in <hi>Anglicisms,</hi> let him acquaint us when he ever knew any <hi>Good wretched Effects?</hi> I am sure this wretched Fellow torments his Rea<g ref="char:EOLhyphen"/>ders with very <hi>wretched English,</hi> and more <hi>wretched Art.</hi>
+               </p>
+            </div>
+            <div n="December" type="month">
+               <head>December, 1690.</head>
+               <p>He <hi>wretchedly</hi> begins <hi>December</hi> thus,—<hi>The many and various Aspects of the last Month, will mightily sway the Publick and Private Affairs of this: But above all, the</hi> ☌ ♂ ♄ <hi>in 23 of that Traiterous Sign</hi> ♏. <hi>Significat Bellum &amp; effusionem Sanguinis, ac multitudinem febrium.</hi> [You are to observe, that he is Damning a Great Man that doth not please him.] And it is pleasant enough to observe how a ☌ of Anger and Ignorance prevail in him. For this very Text he Quotes from <hi>Haly,</hi> treating <hi>de generalibus Accidentibus Mundi,</hi> and wisely applies it to a <hi>Genethlical</hi> purpose. Let us Examin it a little, How can <hi>War and Blood shed</hi> be the Portion of a Single Person, as <hi>such?</hi> And this to proceed from a ☌ of two of the Superiors, which evermore relate to <hi>Kingdoms, Nations,</hi> &amp;c. And what need of a <hi>multitude of Fevers,</hi> When one alone is sufficient to destroy the Life of the greatest Mor<g ref="char:EOLhyphen"/>tal Breathing? This is such <hi>Astrology</hi> as the Ancients never dreamt of. Well may he slight the Sager Documents of our Pristine <hi>Astro<g ref="char:EOLhyphen"/>logers,</hi> when he shall dare to advance such Trash as this.</p>
+               <p>But the confident Man goes on thus,—<hi>There is now great News discours'd of from the Territories of</hi> France. A wonderful Prediction! I dare lay him Two to one, that it will be so every Month of the Year, and let the <hi>Exchange</hi> be Judge. But he proceeds,—<hi>There seems to be some Petticoat Ambassador employed in the Work too.</hi> Pray Sir, what reason have you in your Art for all this? And how long have <hi>Petticoat Ambassadors</hi> been in request? And make us to under stand (if you please) to what <hi>Gender</hi> an Ambassador doth belong, when join'd with the <hi>Petticoat?</hi> If ever Ignorance should be Honour'd with the <hi>Lawrel,</hi> let our <hi>black-thumb'd Merlin</hi> have the Chair.</p>
+               <p>And so having briefly ran over the <hi>Barbarities, Falshoods, Nonsense</hi> and <hi>Contradictions</hi> in his <hi>Monthly Judgments,</hi> I come to give you</p>
+            </div>
+            <div type="commentary">
+               <pb n="12" facs="tcp:206043:7"/>
+               <head>A Brief Examen of what he calls his General Judgments.</head>
+               <p>YOu have seen what a Fruitful Harvest his Monthly Pages have afforded us. And his <hi>General Judgments</hi> will furnish us with a suitable <hi>Crop</hi> of the same Commodities. And to prove them, we shall begin with</p>
+               <div n="winter" type="quarter">
+                  <head>The Winter Quarter, 1690.</head>
+                  <p>Which, as he tells us begins at the ☉'s entring ♑, 1689. <hi>Decem<g ref="char:EOLhyphen"/>ber</hi> the 11th. 45′. 30″. past 1 in the Morning; <hi>And that the ☽ is hasting to a Mundane Parallel of</hi> ♂ But indeed she is strongly apply<g ref="char:EOLhyphen"/>ing to his ☌ as himself afterwards confesseth. What, will he make ☌'s to be <hi>Parallels?</hi> To what then are they so? But he goes on and assures us, that the ☽ passes from the <hi>Mundane Parallel</hi> of ♂ to the <hi>Mundane</hi> □ ☉. Whereas it is apparent, that ☽ defluxes from a ☌ ♂ to a ✶ ♃, and thence to a △ ☉: Then doth he constitute the ☉ <hi>Ruler of the Mid-heaven,</hi> and ♃ Lord of the 5th. and makes ♄ to cast a △ to the <hi>M. C.</hi> But by his favour, if the ☉ be Lord of the <hi>Mid-heaven,</hi> then cannot ♄ behold it by a △. But □ rather, in truth, according to his time, not the ☉, but the ☽ governs the <hi>M. C.</hi> and not ♃, but ♄ hath Dominion in the 5th Angle ♋ being on the one, and ♒ passing the other. Yet, such Trash as this he presents us for <hi>Mathematical truths.</hi> But I'll hasten from his Winter <hi>skill,</hi> and proceed to</p>
+               </div>
+               <div n="spring" type="quarter">
+                  <head>The Spring Quarter, 1690.</head>
+                  <p>Our profound <hi>Merlin</hi> would force it into our Creed, <hi>That the Spring commenceth on</hi> March 9th. 15<seg rend="sup">h</seg>. 25′. <hi>P. M. and that ♏ 24. Culminates, and</hi> ♑ 19. <hi>Ascends.</hi> But if his own <hi>Almanack</hi> may be Umpire in the Matter, 'twill be found vastly different, for by that ♎ 29. <hi>Culminates,</hi> and ♐ 24. rises in the Horoscope, of which let him consider at his Leisure.</p>
+                  <p>But notwithstanding this his pretended exactness in a <hi>Falsity,</hi> he af<g ref="char:EOLhyphen"/>firms, <hi>There can be no ezact Figure of Heaven obtain'd at any Ingress, either to a Degree, or yet to a Sign, two or three sometimes: generously conceded!</hi> But if this be true, why doth he trouble us with the Planets <hi>Angulari<g ref="char:EOLhyphen"/>ties,</hi> Mundane <hi>Parallels,</hi> &amp;c. in such and such Houses, as lately you heard him? Albeit at this incertainty, he talks of <hi>some effusion of Blood, because ♂ is in a Humane Sign, and tells us, the Mundane Parallel be<g ref="char:EOLhyphen"/>tween ♄ and</hi> ♂ (the one in ♏ the other in ♊) <hi>is from the</hi> 4th. and
+<pb n="13" facs="tcp:206043:7"/> 9th. Houses. (tho a little before he said from the 5th. and 9th: <hi>oper<g ref="char:EOLhyphen"/>tet mendacem,</hi> &amp;c. But we will not stand with him for a small mat<g ref="char:EOLhyphen"/>ter, because we would keep his Custom.) Pray Sir, make us so wise as to understand you: For, if as you affirm, we are liable to be Mistaken, <hi>a Sign two or three in the Horoscope,</hi> what will become of your <hi>Mundane Parallels</hi> in such and such <hi>Angles?</hi> &amp;c.</p>
+                  <p>But, be his Figure attainable or not, he confidently goes on, and says, <hi>That ♂ hastens to a</hi> □ ☿. Doth he understand what ♂ is? Or what himself says? When did he ever know a <hi>Superior</hi> Planet to forget his State, and sneakingly apply to an <hi>Inferior?</hi> Chiefly when direct in Motion; as ♂ now is. This Fellow forgets his Horn<g ref="char:EOLhyphen"/>book in Astrology, and must go to School again. But let his Figures be right or wrong, Superiors apply to Inferiors, or not. He adven<g ref="char:EOLhyphen"/>tures to give Judgment upon them. (His name should have been <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, I think) and pretends on a □ ♃ ♂ from <hi>Haly</hi> to tell us,—<hi>that there shall be many, and those great Offences committed, and these done in Secret, and also under pretence of Liberty and Conscience, but indeed it is intended for Rebellion,</hi> &amp;c. And thus the Wheel-barrow Rumbles. But with what Conscience can you father this simple Stuff upon <hi>Haly?</hi> Where hath <hi>Haly</hi> any such <hi>Judgments</hi> on a □ ♃ ♂? Can you tell? He goes on (there's no stopping him) and says. <hi>This Aspect signifies some effusion of Blood; and this the rather, because ♄ is going to a Mundane Parallel of ♂ from Active and Malignant parts of Heaven, and ♂ also in a Humane Sign.</hi> [Here he makes a Superior to apply again; he'll Establish a Common-wealth among the Stars, or it shall scape him hard.] <hi>And this Mundane Parallel is from the 4th. and 9th Houses.</hi>
+                  </p>
+                  <p>The vain <hi>Seer</hi> forgets his former Concession, (<hi>i. e.) That 'tis impossible to obtain a true Horoscope to a Sign two or three:</hi> And yet hath the Impudence to Menace the World with his <hi>Parallels</hi> made from the 4th. and 9th Houses. Where or how shall we fix this wan<g ref="char:EOLhyphen"/>dring ☿? He refuses you see, to abide by his own <hi>Principles.</hi> And yet is so scandalously Bold, and not without some Nonsense, to Write,—<hi>If you but consider from whence this Ray is made, and they are from [that perfidious treacherous</hi> G—<hi>an Sign] Scorpio and Gemini, and from the 9th House.</hi> Say Reader! Are you not weary of read<g ref="char:EOLhyphen"/>ing such Barbarous <hi>Art</hi> as this? I am sure I am of Transcribing it. My God! that such stuff as this, which is neither true <hi>Art</hi> or <hi>English,</hi> should yet pass for <hi>Oraculous!</hi> This <hi>Ray</hi> is made, and <hi>they</hi> are from, <hi>&amp;c.</hi> still speaking of the same thing, which must sometimes be in the <hi>Singular Number,</hi> and (for the greater security of Sense) presently in the <hi>Plural,</hi> with him. I appeal to all Men of <hi>Letters,</hi>
+                     <pb n="14" facs="tcp:206043:8"/> whether he doth not well deserve the <hi>Lash?</hi> The <hi>Ferula</hi> being too gentle a Punishment for such his miserable lying Gibberish. As for his Scandal upon ♏, I refer him to the Person concerned for an Answer, which he may find in his <hi>Obsequium Rationabile,</hi> wherein are variety of Arguments and Instances, in defence of that wor<g ref="char:EOLhyphen"/>thy, but basely abused Sign, too powerful for his <hi>Billingsgate</hi> Muse to grapple with.</p>
+               </div>
+               <div n="summer" type="quarter">
+                  <head>Of the Summer, 1690.</head>
+                  <p>ALtho we have had Mr. <hi>Merlin</hi>'s Confession, that an <hi>Ingressio<g ref="char:EOLhyphen"/>nal Scheme cannot be obtain'd to a Sign, two or three, up<g ref="char:EOLhyphen"/>on the Horoscope.</hi> Yet is he so confident here, as to tell us,—<hi>That 12 ♋ Ascends, and 9 of ♓ Culminates.</hi> Whereas, if we appeal to his own <hi>Almanack,</hi> not ♋ but ♊ <hi>Ascends,</hi> and not ♓ but, ♒ <hi>Culminates.</hi> And thus he presumes to present us with a <hi>Figure of the Ingress;</hi> which he not only owns impossible to be found, but totally disown'd by his own Book. Howbeit, from these <hi>Falla<g ref="char:EOLhyphen"/>cious Positions,</hi> he can boldly Predict. Predict! What? Why, no<g ref="char:EOLhyphen"/>thing more than some <hi>Hostility of the Mobb.</hi>—Nothing more! you Wretch! the least of such a Mischief, is by many Degrees too much. But, blessed be God, he hath lived to see himself Deceiv'd; and I hope, as to such Presages ever will.</p>
+                  <p>Now, he proceeds from his <hi>Impossible Scheme,</hi> to tell us, <hi>The Destruction of Mankind, where Armies are near and in the Field,</hi> &amp;c. Did he ever know of <hi>Armies in a House?</hi> But passing such Niceties, I must tell him, This is a very secure Prediction, and much to his Honor. This, no more now, <hi>Sublicium Caput,</hi> as I before ignorantly termed him, but a right <hi>Heir of Lapland!</hi> A true bred <hi>Diviner!</hi> that can breath forth such an <hi>unerring Oracle,</hi> as the <hi>Destruction of Mankind, where Armies are near, and in the Field,</hi> &amp;c. But, what if those Armies should not Fight? Or else should prove Friends, and engag'd in the same <hi>Common Cause?</hi> Why, should it so fall out; our blustring <hi>Merlin</hi> is Mistaken, and there's an end on't.</p>
+               </div>
+               <div n="autumn" type="quarter">
+                  <head>Of Autumn, 1690.</head>
+                  <p>Our high Flying <hi>Merlin</hi> tells us, <hi>This Season begins</hi> September 12. 6<seg rend="sup">h</seg>. 14′. 36″. P. M. <hi>and that ♈ Ascends in the Scheme, and ♃▪ in it,</hi> &amp;c. And what think you of all this Preciseness? 'tis only to set him and his Almanack together by the Ears; for herein the Ingress is an Hour and half-later; and that not ♈, but ♉ will Horoscopize;
+<pb n="15" facs="tcp:206043:8"/> and ♃ will be not in the Ascendent, but 12th Angle. And herein do most of our <hi>English</hi> Calendariographers accord. But what need any other Proof against him than his own Book? If he will not be true to the <hi>Brat</hi> of his own Brain, what will he ever be true to? I dare affirm, not to his Wife, if he Marry: I say, not to his Wife, &amp;c. any more than to his <hi>Master that first taught him to get his Bread;</hi> of which, somewhat before: And perhaps somewhat more may be said anon.</p>
+                  <p>Howbeit, from his pretended Scheme he affirms,—<hi>It shews a sort of Men knit together, in a Lawless Employment, called Coining, Clipping,</hi> &amp;c. I will not Dispute it with him, whether <hi>Coining</hi> be a <hi>Lawful Employment;</hi> (and yet I know the Parliament have Excluded it the Act against <hi>Monopolies;</hi>) but will suppose he means, <hi>Men knit together in a Confederacy to Coin Monies contrary to Law.</hi> And some of this sort are Discovered in every Month almost, what<g ref="char:EOLhyphen"/>ever Stars do Reign. But now, if instead of <hi>Coining False Mony,</hi> he had said, <hi>False Books,</hi> (an Employment altogether as Lawless and Dangerous) <hi>himself had certainly been found in the Association.</hi> And so I have done with some of his <hi>Noise</hi> and <hi>Nonsense</hi> interspers'd in the four Quarters of the Year, 1690. And shall next Journey to take an account</p>
+               </div>
+               <div type="part">
+                  <head>
+                     <hi>Of his Eclipses</hi> Anno 1690.</head>
+                  <p>And the first he tells us, <hi>Is of the</hi> ☉ February 28, <hi>at Ten at Night, in the last part of</hi> ♓; and yet confidently affirms in the Month of <hi>February,</hi> that the <hi>New ☽ was at Eleven o Clock at Night.</hi> As if the Eclipse and New ☽ had been two different <hi>Phaenomena</hi>'s. But hang an Hour among Friends! It can make odds in his Astrono<g ref="char:EOLhyphen"/>my. He says this Eclipse <hi>Gives damage to Rivers and Fountains, and all things therein,</hi> &amp;c. (I have reckon'd with him formerly for the <hi>Gifts</hi> of the Stars.) He Quotes <hi>Ptolomy</hi> for this Donation; but the words are not <hi>Ptolomy</hi>'s, but <hi>Proclus</hi>'s. But <hi>Proclus</hi> may be <hi>Ptolomy,</hi> and <hi>Ptolomy Proclus,</hi> 'tis all one to our Battavian <hi>Merlin.</hi>
+                  </p>
+                  <p>The Second Eclipse he says, <hi>Is of the ☽, on</hi> March <hi>14th. at Ten at Night; at which time almost three parts of the ☽'s Body will be dark<g ref="char:EOLhyphen"/>ned.</hi> Almost we say, saves many a Lye; but it will not do so here: For all the Annual Writers, except himself, who undertake to determin the <hi>Eclipsed Digits,</hi> affirm, that not one half of the ☽'s Body would be <hi>Obscured.</hi> And so indeed the Event proved. And the <hi>Author</hi> from whom <hi>Partridge</hi> Pilsers this Eclipse doth not determin the quantity of Darkness. So that it is apparent, he writes thereof
+<pb n="16" facs="tcp:206043:9"/> at Random, and not by Skill. Can you believe without a serious Examination, that a Man so empty of Art should be so full of Impudence! But let the hollow Tub Sound; that's all 'tis good for.</p>
+                  <p>He tells us, <hi>The Third Eclipse is of the</hi> Sun, August 24, <hi>about One in the Morning, in</hi> 11 ♍ and brings in <hi>Junctine</hi> to say,—<hi>It gives Famine, Plague, Sedition,</hi> &amp;c. But good Sir, shew us where <hi>Junctine</hi> says so! Of himself we are sure he says no such thing. But <hi>Pro<g ref="char:EOLhyphen"/>clus</hi> whom he Quotes, doth say, <hi>when the ☉ shall be Eclipsed in De<g ref="char:EOLhyphen"/>cano Secundo ♍ famem, pestem,</hi> &amp;c. But our <hi>Merlin</hi> as blind as a Mole, can't see when his Author speaks of himself, or from another. He proceeds,—<hi>It gives Destruction to Mankind, because it is in a Hu<g ref="char:EOLhyphen"/>mane Sign.</hi> And in this he hath shewn his Skill, <hi>viz.</hi> In placing the Energie of this <hi>Eclipse</hi> upon Men, that himself being <hi>Brute</hi> all over, might happily escape the Danger.</p>
+                  <p>The Fourth, <hi>Is of the</hi> ☽ September <hi>the 8th, at Two a Clock in the Morning,</hi> (as he says) <hi>in</hi> 26 ♍, of which he makes <hi>Junctine</hi> to say, <hi>It threatens Poets,</hi> (and they, saith he, <hi>of all Men, have the least need of it;) and gives Banishment and Slaughter.</hi> A very formal Story! But where doth <hi>Junctine</hi> say this upon an Eclipse of the ☽ in 26 ♍. Sure you your self are turn'd <hi>Doggrel Poetaster,</hi> that can thus forget and <hi>Feign</hi> at pleasure. The Man hath only mistaken the Judg<g ref="char:EOLunhyphen"/>ments, (not of <hi>Junctine</hi>) but of <hi>Proclus</hi> on a <hi>Solar Eclipse</hi> in 26 ♍, for those of a <hi>Lunar</hi> one in ♓ (this being such) as is plain to any that reads <hi>Proclus,</hi> as Quoted by <hi>Junctine.</hi>
+                  </p>
+                  <p>Lo! what an All sufficient Astrologer have we here! Certainly if ever any Man deservedly came under the <hi>Poets Lash,</hi> our Im<g ref="char:EOLhyphen"/>pudent <hi>Merlin</hi> merits to run the <hi>Gantlope</hi> through them all. I great<g ref="char:EOLhyphen"/>ly pity the Disciples of this insolent Fellow, (if at least he have any;) to think how sadly and Extravagantly they'll be Taught; this their Tutor being so brim full of Ignorance, and withal so empty of all true Art and English.</p>
+               </div>
+               <div type="part">
+                  <head>A short Glance upon his <hi>N. B.</hi> or <hi>Nota Bene.</hi>
+                  </head>
+                  <p>I Had resolv'd to pass by his <hi>Nota Bene</hi> wholly; but occasionally taking a strict view thereof, and finding him herein to set his small skill in Art upon the Tenters, I thought fit to touch thereon a little.
+<pb n="17" facs="tcp:206043:9"/> And (1.) He observes as idly as Ironically.—<hi>An excellent Direct<g ref="char:EOLhyphen"/>ion for Mischief to a great Person in</hi> Ireland; <hi>and that is ☉ ad ☍ ♃, per Arcum Obscurum. It toucheth about the middle of</hi> July, 1690, &amp;c. But this Direction he vainly vaunts of, proved but a harmless Dart as to Life, tho shot with Malice enough out of his <hi>Invisible Bow.</hi> (2.) He after the same rate for Truth, tells us, <hi>That the</hi> French <hi>Tyrant hath also this Year his ☉ come by Direction to □ ♄ in Zodiaco,</hi> &amp;c. <hi>But because all Directions of the ☉ do touch six Months before the Mea<g ref="char:EOLhyphen"/>sure of time expires;</hi> (A goodly measure of time the while!) <hi>There<g ref="char:EOLhyphen"/>fore we may judge the first to operate the most part of the Summer, and this last of the</hi> French-man's <hi>in</hi> July, <hi>when ♄ comes to be Stationary on his Ascendant, and in □ to ☉ in ♌, on the Radical place of his</hi> ☽. Where by the way I must tell him he talks at Rovers; For he mentioned no <hi>First</hi> of the <hi>French-man</hi>'s: And every <hi>Relative</hi> that is robb'd of its <hi>Correlate,</hi> may bring his Indictment against the Thief. Then for that quaint term of Art, <hi>of his measure of time to Expire;</hi> I perceive his <hi>Measure of time</hi> is not <hi>Immortal,</hi> but must Die even as its Author. Whereas, a true <hi>Measure of Time,</hi> is as Immortal as <hi>Time</hi> or <hi>Truth</hi> it self.</p>
+                  <p>But, (3.) He makes a bustle about <hi>Hopes and Fears,</hi> &amp;c. But I must tell him, we value neither his <hi>Hopes or Fears;</hi> nor yet shall we trouble our self with what he appoints ♄ <hi>to do with the wor<g ref="char:EOLhyphen"/>shipful</hi> French-man, (as he wittily phrases it) having as little Re<g ref="char:EOLhyphen"/>spect for any of <hi>England</hi>'s Enemies, as any Addleheaded <hi>Merlin</hi> what<g ref="char:EOLhyphen"/>ever. But what is such stuff as this to the Nonsense and Falshood he pops upon us in every Page? And now Mr. <hi>Merlin,</hi> pray An<g ref="char:EOLhyphen"/>swer us, if you can. Where do you <hi>find ☉ upon</hi> ☽'s <hi>Radical place in the</hi> French-man's <hi>Geniture,</hi> at the □ ☉ ♄? Wipe your Partial Eyes, and then you'll plainly see ☉ at that time distant from his ☽ no less than 9 Degrees.</p>
+                  <p>But you are a great <hi>Latitudinarian</hi> I perceive: And since I find you such, as well to <hi>Truth</hi> as <hi>Sense,</hi> and value your self chiefly upon your Talents of <hi>Ranting, Huffing,</hi> and speaking high swelling words of Vanity. I will set a better <hi>Price</hi> therefore upon my preci<g ref="char:EOLhyphen"/>ous Minutes, at this time however, than to waste any more of them upon the rest of your Ridiculous Scurrile <hi>Merlins.</hi> Indeed, this may well stand for an Answer to them all. As also, for a <hi>Reply</hi> to any thing else yov may happen to Publish hereafter.</p>
+               </div>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb n="18" facs="tcp:206043:10"/>
+            <head>POSTSCIPT.</head>
+            <p>SInce the Writing hereof, I am informed, That <hi>non obstante</hi> our <hi>Merlin</hi>'s Menaces to <hi>Monsieur, &amp;c.</hi> (and let him heap upon him as many hard Presages as he can, for me, I shall never be con<g ref="char:EOLhyphen"/>cerned thereat.) This is that very <hi>J. Partridge</hi> who in 1680 <hi>flut<g ref="char:EOLhyphen"/>ter'd</hi> so much on his behalf; then Publishing his <hi>Nativity,</hi> which was Printed by <hi>N. T.</hi> by the token it was never yet paid for.</p>
+            <p>In that Nativity Page 15, he thus Writes, <hi>That ☉ casting ✶ to his Horoscope, makes him perform all his Actions with greatness and prince<g ref="char:EOLhyphen"/>ly Glory, suitable to the quality of his Birth, And that ☽ in ☌ ♀ and ☉ within Orbs ✶ ♃ affords him divers admirable Qualifications, and so lofty a Spirit, that he scorns to trample on a Conquer'd Enemy. And Page 17, 18. The Natives Enemies are signified by ♀ in ♂ ☽ near the Presope and Aselli, in ☍ ♄ and □ ♃: And therefore for his publick Enemies abroad, the ☍ ♄ infatuatet them, and possesseth them of many strange Fears; so that they are but like a Lyon in a Lambs skin, having the name, but not the nature of Enemies. And Page 19. The ☉ well placed in the Tenth House, gives great Power: to which we may add the ✶ of ♃ to ☉, and to the Cusp of the</hi> M. C. <hi>almost, with the Cor Leonis, a Regal fixed Star Culminant. All which are Arguments of Honor and Splendor, and that to his Lifes end.</hi> Thus <hi>Partridge</hi> Flatteringly Scribled, 1680.</p>
+            <p>Now, what strange Misfortune hath blinded his Understanding, that he could not call this to mind before he had wrote his opposite Predictions hereunto? But his business is not to study <hi>Self-Consistency,</hi> and therefore hath made one of his <hi>Babel</hi> Works a <hi>Glass</hi> to the rest, wherein they appear with their Heels upward.</p>
+            <p>Lastly, <hi>I</hi> say once more, let him lessen <hi>England</hi>'s Enemies as much as he can, so he proceed upon just and laudable Measures, in so do<g ref="char:EOLhyphen"/>ing, <hi>I</hi> shall really be of his side. <hi>I</hi> own it my Duty to Serve our King and Country, even to my utmost ability, either in <hi>Purse</hi> or <hi>Person,</hi> or both, and this <hi>I</hi> resolve cordially to do against any en<g ref="char:EOLhyphen"/>croaching Enemy, either Abroad or at Home. While this <hi>Partridge</hi> notwithstanding all his Boastings, under pretence of a counterfeit Duty to it (if he dare own his own words) in bauling Anti monarchi<g ref="char:EOLhyphen"/>cally, (<hi>A Commonwealth's the thing that Kingdoms want</hi>) Doth muti<g ref="char:EOLhyphen"/>nously Clamour against it And <hi>I</hi> can't hear he ever Recanted this <hi>Treasonous Republican Position;</hi> the which he ought most fully to do, if he would be thought a Friend to the <hi>English Monarchy,</hi> or a true Subject to the thrice Valiant and Warlike present Sovereign thereof: Whom God long Preserve, <hi>&amp;c.</hi>
+            </p>
+            <div n="1" type="to_the_reader">
+               <pb n="19" facs="tcp:206043:10"/>
+               <head>1. Advertisement.</head>
+               <p>AS Parting between Friends, is attended with some ardent Valediction, so shall mine be with <hi>J. P.</hi> 'Tis pleasant to note how he labours to acquit himself from a Contradiction he own'd. 1690. <hi>He knew no ground of a Difference with his Tutor:</hi> And now in 1693, pretends to find one. The Fellow, Jugler like, plays <hi>Fast</hi> and <hi>Loose;</hi> we know not where to have him. In the Epistle to his <hi>Mene Tekel, 2d</hi> Part. He owns a Conversation with Mr. <hi>G.</hi> from 1665. to 1680. And then (says he) <hi>The Strangeness began about Po<g ref="char:EOLhyphen"/>pery.</hi> (A wrethed Lye!) If the Quarrel, or Strangeness began in 1680, and upon so strange a ground too: It is strange it should not beknown to him in 1690. And if it was known to him in 1690, (which he both <hi>Owns</hi> and <hi>Disowns:</hi>) Then his pretended Ground thereof in 1693, pickt out of a Re<g ref="char:EOLhyphen"/>ply to him in 1687, is a meer Prevarication, and like himself, without <hi>Truth</hi> or <hi>Conscience.</hi> And yet therein he complains of many ill-sounding <hi>Epithets</hi> cast on him in that <hi>Reply;</hi> and some of them no less than 158, or 160 times over. (That <hi>Reply</hi> sticks in his Stomach.) Now will I really abate him 150 in either Sum, on Con<g ref="char:EOLhyphen"/>dition he'll make the residue good. But the Man makes Lyes his Refuge. And for the Epithetes he musters up, had his <hi>Provocations</hi> been set by them, they would have appeared <hi>Roses,</hi> and not <hi>Thorns:</hi> And yet it is hard to Cope with a dirty black-thumb'd Author, and not contract some of his Filth. None that touch Pitch can 'scape Defilement, in <hi>tanto,</hi> at least.</p>
+               <p>But Mr. <hi>Merlin</hi> is much troubled at an <hi>Anagram</hi> which Visits the <hi>City</hi> and <hi>Country,</hi> and would fasten it upon <hi>J. G.</hi> as the Author. I can assure him, <hi>J. G</hi>'s Faculty lyes not that way, albeit, it is probable he may have had that <hi>Anagram,</hi> and also have friendly imparted it to some that have made an <hi>Invidious</hi> use of the Civility. But since <hi>J. P.</hi> hath been so simple, as to tell an idle <hi>Tale</hi> about it, <hi>I</hi> give it you here, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>
+                     <hi>JOHN PARTRIDGE.</hi>
+                  </item>
+                  <item>TI ROPE, GRIN HARD.</item>
+               </list>
+               <lg>
+                  <l>'<hi>Tis pity of thy Fate thou be debarr'd:</hi>
+                  </l>
+                  <l>
+                     <hi>Some of you Sons of</hi> KETCH, <hi>Ti Rope, Grin Hard.</hi>
+                  </l>
+               </lg>
+               <p>I shall heartily pray God to bless the Man from so sad a <hi>Destiny.</hi> Yet his spurring on so Zealously towards it, makes me suspect my Prayers are like to be spent in vain. But there's hopes yet at the last Hour, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="2" type="to_the_reader">
+               <pb n="20" facs="tcp:206043:11"/>
+               <head>2 Advertisement.</head>
+               <p>☞ I Am to acquaint my Reader, that <hi>I</hi> have just now met with a New Piece of <hi>J.</hi> P's <hi>Astrology,</hi> as like the <hi>Dad</hi> as ever it can stare; It rather excels, than falls short of his other <hi>Bedlam</hi> Prints in <hi>Ignorance,</hi> loud <hi>Railing,</hi> and superlative <hi>Impudence, &amp;c.</hi> yet demon<g ref="char:EOLhyphen"/>strates his <hi>Nurses</hi> care of him in his <hi>Infancy;</hi> for it appears he is nei<g ref="char:EOLhyphen"/>ther <hi>Pen</hi> nor <hi>Tongue</hi>-ty'd. He is so bold herein, as to denounce a War, not only against the <hi>Person that first taught him to get his Bread,</hi> but also against almost all <hi>Astrologers,</hi> both Ancient and Modern. So that you see, this <hi>Terrae Filius,</hi> is ashamed of nothing, be it never so Ridiculous.</p>
+               <p>Albeit, (tho by his many idle Concessions, and obvious Contra<g ref="char:EOLhyphen"/>dictions, he hath Answer'd himself.) Yet, <hi>I</hi> dare engage, on condi<g ref="char:EOLhyphen"/>tion that he first disrobe his beastly <hi>Tract</hi> of all its Railings against <hi>Religion, Kings, Princes</hi> and <hi>Nobles,</hi> &amp;c. and Re-print it in such a Dress as may shew him a Man that deserves some reasonable notice, he shall have a <hi>Reply.</hi> But for a <hi>Beast</hi> that Brays! and a <hi>Bedlamist</hi> that Raves! can any one that is <hi>compos Mentis,</hi> think such fit for any Sober Man to Cope with? He must be a grand Enemy to <hi>Art</hi> and <hi>Reason</hi> both, that shall Prostitue either to any irrational or unwarrantable Purpose.</p>
+               <p>As for Mr. <hi>G.</hi> (the only Man that rais'd him to what he is) I am of an Opinion, he's wiser than to be concern'd with his great heap of <hi>Billings gate Stuff,</hi> but will rather own himself overcome by his <hi>Ribaldry</hi> than <hi>Reason;</hi> and Silenc'd more with his <hi>Acrimony</hi> than <hi>Ar<g ref="char:EOLhyphen"/>guments.</hi> And for the wicked Scandals wherewith he Defames Mr. <hi>G:</hi> had they been true, how comes it that he hath escaped the Law all this while? And wherefore is it, he holds so clear a Credit among his Neighbours? But <hi>J. P</hi>'s. Pen (or Tongue) is no Slander.</p>
+               <p>To conclude, Mr. <hi>J.</hi> P. your terming the two late Reigns <hi>Bloody, &amp;c.</hi> and taxing that Glorious Monarch, K. <hi>Charles</hi> II. with break<g ref="char:EOLhyphen"/>ing his <hi>Coronation Oath;</hi> your dirty ridiculing his serious Devotions at <hi>Breda,</hi> when under his greatest Afflictions; and your dangerous Story of <hi>Scandalum Magnatum</hi>'s, (<hi>I</hi> wish that you, <hi>&amp;c.</hi> find it not so) are no Arguments in any Man's <hi>Astrology,</hi> save yours. But you have Labour'd hard, Sir, to approve your self another <hi>Stephen Colledge,</hi> and been guilty of as many Anti-Monarchical <hi>Gim cracks,</hi> (tho not in the same way) and have presented the World with as many <hi>Raree-Shows.</hi> God bless you from his <hi>End,</hi> for you are not much in Person unlike him.—<hi>Sero sapit Ingratus.</hi>
+               </p>
+               <p>☞ <hi>A Discourse Intituled,</hi> The Ungrateful Daemon Dispossess'd <hi>wherein the Manners and Skill of</hi> J. Partridge, <hi>is more largely Exemple<g ref="char:EOLhyphen"/>fied, will shortly be made Publick by his Tutor.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
